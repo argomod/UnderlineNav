@@ -9,7 +9,9 @@ Accessibility improvements allow VoiceOver users to swipe up/down to activate di
 
 
 ## Why?
-For assistive technology users, custom segmented controls, such underline navigations, typically require a user to swipe through every single tab before arriving to the desired content. This can be a confusing and tedious experience. SwiftUI's `accessibilityAdjustableAction` affords a custom mode of interaction, which I've used here to create a secondary navigation inside Underline Nav.
+For assistive technology users, custom segmented controls, such underline navigations, typically require a user to swipe through every single tab before arriving to the desired content. This can be a confusing and tedious experience.
+
+SwiftUI's `accessibilityAdjustableAction` affords a custom mode of interaction, which I've used here to create a secondary navigation inside Underline Nav.
 
 ## Credits
 - Jared Davidson, @Archetaoo, [UnderlineTabFinal](https://github.com/Archetapp/UnderlineTabBarFinal)
