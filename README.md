@@ -3,9 +3,7 @@ Underline Nav is a custom segmented control that utilizes SwiftUI's `TabView`.
 
 Accessibility improvements allow VoiceOver users to swipe up/down to activate different tabs and swipe right/left to skip to the content—a quick and intuitive experience.
 
-![Screenshot of Underline Nav focused and centered on the fifth tab.](Previews/1.jpeg)
-
-![Screenshot of Underline Nav Focused and centered on the third tab with VoiceOver enabled, reading aloud "Currently on three".](Previews/2.jpeg)
+![Two screenshots of Underline Nav; one focused on the fifth tab and the other with VoiceOver enabled reading "Currently on three".](Previews/1.png)
 
 **All feedback welcome.**
 
